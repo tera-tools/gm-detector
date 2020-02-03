@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "author": "Tera-Tools",
+    "options": {
+        "niceName": "GM-Detector",
+        "guiName": "GM-Detector"
+    },
+    "supportUrl": "https://github.com/tera-tools/gm-detector",
+    "servers": ["https://raw.githubusercontent.com/tera-tools/gm-detector/master/"],
+    "name": "gm-detector",
+    "description": "Detected if GMs are nearby",
+    "packets": {
+        "S_SPAWN_USER": 15,
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}

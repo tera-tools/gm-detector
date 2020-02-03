@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "e717cc9dc620c688793e8ebb0205b64ec3d0b1f4dd566cc93bdfb194ce5a2dac",
+        "module.json": "b384ee13b5eba86c1238c4d17ea94713672991be9878232a3920f8b1882703db"
+    },
+    "defs": {
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_SPAWN_USER": 15
+    }
+}
